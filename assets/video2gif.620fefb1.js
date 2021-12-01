@@ -1,0 +1,1 @@
+import{_ as e}from"./index.cfd81eac.js";import{o,n as c}from"./vendor.0a64e0b0.js";const r={},s={class:"page-tool-video2gif"};function t(a,n){return o(),c("div",s)}var d=e(r,[["render",t]]);export{d as default};
