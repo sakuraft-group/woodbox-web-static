@@ -1,4 +1,0 @@
-User-Agent: *
-Disallow: /user/
-Disallow: /account/
-Disallow: /oauth/
